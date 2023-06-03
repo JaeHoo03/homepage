@@ -88,7 +88,7 @@
 
         .baekjun {
         display: block;
-        margin: 0 auto; /* 가운데 정렬을 위한 좌우 여백 조정 */
+        margin: 0 auto;
         float: left;
         width: 30%;
         height: 30%;
